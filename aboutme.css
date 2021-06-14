@@ -1,1 +1,30 @@
+body {
+  background-color: black
+}
+h1 { 
+  color: black;
+  background-color: DarkGoldenRod;
+  text-align: center;
+  font-family: "Times New Roman"; 
+  font-style: oblique;
+  text-shadow: 2px 2px white; 
+}
+ul {
+  list-style-type: none;
+  font:"Times New Roman";
+  margin: 5;
+  padding: 0;
+  overflow: hidden;
+  background-color: DarkGoldenRod;
+} 
+li {
+float: left;
+}
 
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+ }
+ 

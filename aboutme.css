@@ -38,7 +38,6 @@ li a {
 }
 img {
 display: block;
--webkit-box-reflect: below 20px;
 border: 1px solid #ddd;
   border-radius: 4px;
   padding: 20px;
